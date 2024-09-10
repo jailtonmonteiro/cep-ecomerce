@@ -10,6 +10,6 @@ Atividade Online Pontuada 2: Uso de XMLHttpRequest em processamento assincrono.
 
 para utilização é necessário fazer uma cópia
 
-'''bash
+'''
     git clone https://github.com/jailtonmonteiro/cep-ecomerce.git
 '''
